@@ -70,8 +70,8 @@ fr.close()                                                            #file clos
                                                                       #printing the outcome in the desired format
 print('Number of runs : 100')
 print('Average Time statistics')
-print('real ', a, ' user ', b, ' sys ', c)
+print('real', a, 'user', b, 'sys', c)
 print('Standard deviation of Time statistics')
-print('real ', d, ' user ', e, ' sys ', f)
+print('real', d, 'user', e, ' sys ', f)
 print('Number of runs within (average - standard deviation) to (average + standard deviation)')
-print('real ', l, ' user ', m, ' sys ', n)
+print('real', l, 'user', m, 'sys', n)
